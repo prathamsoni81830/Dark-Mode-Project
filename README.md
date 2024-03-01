@@ -1,0 +1,3 @@
+Dark Mode Project...
+This project consists of toggle button which changes the color theme of the webpage. This is made using html,css and javascript.
+Live version and hosted link of the project :- (https://prathamsoni81830.github.io/Dark-Mode-Project/)
